@@ -18,7 +18,7 @@ git clone https://github.com/Das-Suparna/Task3_Data_Science_Nullclass_English_to
 
 2. Move to Directory
 ```
-cd 
+cd Task3_Data_Science_Nullclass_English_to_Hindi_Transation
 ```
 
 3.Install the required dependencies:
