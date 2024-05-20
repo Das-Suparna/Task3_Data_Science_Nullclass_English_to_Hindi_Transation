@@ -5,6 +5,7 @@ Create a feature to translate the audio into Hindi . The system will listen the 
 ## Requirements
 
 - Python 3.x
+- `tkinter` library
 - `speechrecognition` library
 - `googletrans` library
 
